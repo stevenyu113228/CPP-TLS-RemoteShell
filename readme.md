@@ -19,7 +19,7 @@
 ![](https://i.imgur.com/M7fpPnK.png)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## 系統架構
 透過C++與openssl建置，符合TLS規範的SSL Remote shell
 
@@ -29,7 +29,7 @@
 ![](https://i.imgur.com/IQhxsNe.png)
 #### SYN,ACK
 ![](https://i.imgur.com/2dBhQ2j.png)
-<br><br><br><br><br><br><br><br><br>
+
 #### ACK
 ![](https://i.imgur.com/j4S4eiL.png)
 
@@ -37,21 +37,21 @@
 #### Client Hello
 ![](https://i.imgur.com/ilfDdPj.png)
 
-<br><br><br><br><br><br><br><br><br>
+
 #### Server Hello + Cipher
 ![](https://i.imgur.com/eo9igye.png)
 #### Client Cipher
 ![](https://i.imgur.com/0SP12xG.png)
 
 
-<br><br><br><br><br><br><br>
+
 ### 3.傳送加密資料
 #### Server
 ![](https://i.imgur.com/jGfb4bU.png)
 #### Client
 ![](https://i.imgur.com/LKEeqY7.png)
 
-<br><br><br><br><br><br>
+
 ## 程式碼解說
 詳細程式碼重點皆註解於原始碼內
 
